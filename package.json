@@ -1,0 +1,19 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "description": "Learning platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoleyva/CodeCraftHub.git"
+  },
+  "author": "Ricardo Leyva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoleyva/CodeCraftHub/issues"
+  },
+  "homepage": "https://github.com/ricardoleyva/CodeCraftHub#readme"
+}
